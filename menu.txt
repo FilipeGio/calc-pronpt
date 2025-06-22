@@ -1,0 +1,8 @@
+
+Welcome to Calculator on terminal
+
+1 - ADD
+2 - Subtraction
+3 - Multiply
+4 - Divide
+5 - Exit
